@@ -12,3 +12,5 @@ Attention that antivirus program may generates a false alarm.
 
 
 The kit can only run on windows10.
+
+Please contact me if you find any bug.
